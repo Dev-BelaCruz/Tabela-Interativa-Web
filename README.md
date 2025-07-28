@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com o intuito de simular uma mini planilha de dado
 
 ## 🔗 Acesse o Projeto
 
-- **Netlify:** [Clique aqui para abrir](https://seu-link.netlify.app) *(insira o link real depois que publicar)*
+- **Netlify:** [Clique aqui para abrir](https://frabjous-baklava-845ccd.netlify.app/)
 
 ---
 
